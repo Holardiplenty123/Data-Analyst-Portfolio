@@ -9,11 +9,15 @@ Feel free to look around :)
 ## Table of Contents
 - [About](https://github.com/Holardiplenty123/Data-Analyst-Portfolio/blob/main/README.md#about)
 
-Portfolio Projects
+- Portfolio Projects
 
-SQL
+  - SQL
 
-Excel
+  - Excel
+ 
+  - Power BI
+ 
+  - Python
 
 
 
