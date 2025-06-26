@@ -5,3 +5,15 @@ Hello, I'm Adigun Samuel, a healthcare Data Analyst. I enjoy transforming raw da
 I'm committed to continuous learning and staying at the forefront of the latest advancements in healthcare and data analytics. I'm proficient in SQL, Excel, Power BI, & Python.
 
 Feel free to look around :)
+
+## Table of Contents
+- [About](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#about)
+
+Portfolio Projects
+
+SQL
+
+Excel
+
+
+
